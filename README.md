@@ -1,2 +1,0 @@
-# InformeVenta
-informe de venta 
